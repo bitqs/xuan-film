@@ -1,0 +1,6 @@
+node_modules/
+out/
+work/
+*.wav.bak
+__pycache__/
+.env

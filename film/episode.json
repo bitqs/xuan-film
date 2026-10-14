@@ -1,0 +1,13 @@
+{
+ "slug": "xuan",
+ "composition": "Xuan",
+ "title": "选",
+ "cover": {"text": "选", "sub": "读懂《人选天选论》"},
+ "credit": "姜蓝（路飞）《人选天选论》 guohen.com",
+ "allowed_text": [],
+ "format": {"width": 1080, "height": 1920, "fps": 30},
+ "palette": {},
+ "tail_sec": 0,
+ "subtitles": {"enabled": true},
+ "fonts_extra": ""
+}
